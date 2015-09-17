@@ -1,4 +1,7 @@
 # GoBoard
+use html5 canvas to draw a go board.
+
+## future
 easy way to build a go game client.
 
 ## Libraries
